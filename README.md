@@ -1,4 +1,4 @@
-# pyrow - Python Regatta Organization Wizard
+# pyrow - Python (R)egatta (O)rganization (W)izard
 This program helps you to generate regatta boat classes based on your choices.
 
 
